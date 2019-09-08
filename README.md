@@ -1,5 +1,5 @@
-# Simple_Stock_prediction
-We will be using simple Stock prediction using sevelral regressor form scikit-learn library
+# Simple Stock prediction
+A simple stock prediction using several regressor form scikit-learn library on apple stock
 * LinearRegression
 * Ridge
 * KNN
